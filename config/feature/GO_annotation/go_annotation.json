@@ -1,0 +1,9 @@
+{
+  "goa": "../../../data/feature/GO_annotation/raw/goa_human_20180226.gaf",
+  "ontology": "../../../data/raw/feature/GO_annotation/raw/gene_ontology_edit_20180201.obo",
+  "feature": {
+    "bp": "../../../data/feature/GO_annotation/clean/GO_BP_annotation_20180226.json",
+    "cc": "../../../data/feature/GO_annotation/clean/GO_CC_annotation_20180226.json",
+    "mf": "../../../data/feature/GO_annotation/clean/GO_MF_annotation_20180226.json"
+  }
+}

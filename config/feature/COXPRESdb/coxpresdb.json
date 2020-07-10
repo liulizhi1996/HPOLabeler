@@ -1,0 +1,5 @@
+{
+  "entrez-uniprot": "../../../data/feature/COXPRESdb/raw/entrez2uniprot.txt",
+  "co-expression": "../../../data/feature/COXPRESdb/raw/Hsa-u.v18-12.G26050-S164823.combat_pca_subagging.mrgeo.d.zip",
+  "output": "../../../data/feature/COXPRESdb/clean/COXPRESdb.hsa-u.c2-0.json"
+}

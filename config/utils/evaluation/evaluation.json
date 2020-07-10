@@ -1,0 +1,38 @@
+{
+  "ontology": {
+    "path": "../../data/obo/hp_20180308.obo",
+    "version": "2018"
+  },
+  "annotation": "../../data/dataset/annotation/test_annotation.json",
+  "test_protein": "../../data/dataset/protein/test_protein_list.json",
+  "term_list": "../../data/dataset/term/term_list.json",
+  "frequency": {
+    "very_rare": "../../data/dataset/term/frequency/term_list_very_rare.json",
+    "rare": "../../data/dataset/term/frequency/term_list_rare.json",
+    "uncommon": "../../data/dataset/term/frequency/term_list_uncommon.json",
+    "common": "../../data/dataset/term/frequency/term_list_common.json",
+    "very_common": "../../data/dataset/term/frequency/term_list_very_common.json",
+    "extremely_common": "../../data/dataset/term/frequency/term_list_extremely_common.json"
+  },
+  "result": [
+    "../../data/result/basic/flat/flat_test_BioGRID_3.4.158.json",
+    "../../data/result/basic/flat/flat_test_COXPRESdb.hsa-u.c2-0.json",
+    "../../data/result/basic/flat/flat_test_GeneMANIA_20170312.json",
+    "../../data/result/basic/flat/flat_test_GO_BP_annotation_20180226.json",
+    "../../data/result/basic/flat/flat_test_GO_CC_annotation_20180226.json",
+    "../../data/result/basic/flat/flat_test_GO_MF_annotation_20180226.json",
+    "../../data/result/basic/flat/flat_test_hippie_v2_2.json",
+    "../../data/result/basic/flat/flat_test_HumanNet-XN_v2.json",
+    "../../data/result/basic/flat/flat_test_InterPro_77.0.json",
+    "../../data/result/basic/flat/flat_test_STRING.v10.5.json",
+    "../../data/result/basic/flat/flat_test_Trigram.json",
+    "../../data/result/basic/naive/naive_test.json",
+    "../../data/result/basic/neighbor/neighbor_test_BioGRID.3.5.158.json",
+    "../../data/result/basic/neighbor/neighbor_test_COXPRESdb.hsa-u.c2-0.json",
+    "../../data/result/basic/neighbor/neighbor_test_GeneMANIA_20170312.json",
+    "../../data/result/basic/neighbor/neighbor_test_hippie_v2_2.json",
+    "../../data/result/basic/neighbor/neighbor_test_HumanNet-XN_v2.json",
+    "../../data/result/basic/neighbor/neighbor_test_STRING.v10.5.json",
+    "../../data/result/ensemble/hpolabeler.json"
+  ]
+}

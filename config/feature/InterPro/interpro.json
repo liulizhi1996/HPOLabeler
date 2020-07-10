@@ -1,0 +1,4 @@
+{
+  "ipr_path": "../../../data/feature/InterPro/raw/full_seq.fasta.xml",
+  "output": "../../../data/feature/InterPro/clean/interpro_77.0.json"
+}

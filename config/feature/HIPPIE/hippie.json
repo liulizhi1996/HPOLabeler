@@ -1,0 +1,5 @@
+{
+  "mapping": "../../../data/feature/HIPPIE/raw/uniprot_name2id.txt",
+  "network": "../../../data/feature/HIPPIE/raw/hippie_v2_2.txt",
+  "output": "../../../data/feature/HIPPIE/clean/hippie_v2_2.json"
+}

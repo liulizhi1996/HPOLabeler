@@ -1,0 +1,5 @@
+{
+  "network": "../../../data/feature/BioGRID/raw/BIOGRID-ORGANISM-Homo_sapiens-3.4.158.tab2.txt",
+  "mapping": "../../../data/feature/BioGRID/raw/UNIPROT.tab.txt",
+  "feature": "../../../data/feature/BioGRID/clean/BioGRID.3.4.158.json"
+}

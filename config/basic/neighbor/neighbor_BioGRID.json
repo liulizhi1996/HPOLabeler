@@ -1,0 +1,19 @@
+{
+  "network": {
+    "path": "../../../data/feature/BioGRID/clean/BioGRID.3.4.158.json",
+    "type": "unweighted"
+  },
+  "protein_list": {
+    "ltr": "../../../data/dataset/protein/ltr_protein_list.json",
+    "test": "../../../data/dataset/protein/test_protein_list.json"
+  },
+  "ontology": {
+    "path": "../../../data/obo/hp_20180308.obo",
+    "version": "2018"
+  },
+  "annotation": "../../../data/dataset/annotation/train_annotation.json",
+  "result": {
+    "ltr": "../../../data/result/basic/neighbor/neighbor_ltr_BioGRID.3.4.158.json",
+    "test": "../../../data/result/basic/neighbor/neighbor_test_BioGRID.3.5.158.json"
+  }
+}

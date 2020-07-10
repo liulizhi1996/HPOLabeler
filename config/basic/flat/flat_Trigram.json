@@ -1,0 +1,18 @@
+{
+  "ontology": {
+    "path": "../../../data/obo/hp_20180308.obo",
+    "version": "2018"
+  },
+  "protein_list": {
+    "train": "../../../data/dataset/protein/train_protein_list.json",
+    "ltr": "../../../data/dataset/protein/ltr_protein_list.json",
+    "test": "../../../data/dataset/protein/test_protein_list.json"
+  },
+  "feature": "../../../data/feature/Trigram/clean/Trigram.json",
+  "annotation": "../../../data/dataset/annotation/train_annotation.json",
+  "model": "lr",
+  "result": {
+    "ltr": "../../../data/result/basic/flat/flat_ltr_Trigram.json",
+    "test": "../../../data/result/basic/flat/flat_test_Trigram.json"
+  }
+}

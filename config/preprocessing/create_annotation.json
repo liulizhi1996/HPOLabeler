@@ -1,0 +1,6 @@
+{
+  "mapping": "../../data/annotation/intermediate/gene2uniprot_20191115.txt",
+  "raw_annotation": "../../data/annotation/raw/ALL_SOURCES_ALL_FREQUENCIES_genes_to_phenotype_20191115.txt",
+  "processed_annotation": "../../data/annotation/clean/hpo_annotation_20191115.json",
+  "protein_list": "../../data/list/protein/protein_list_20191115.json"
+}

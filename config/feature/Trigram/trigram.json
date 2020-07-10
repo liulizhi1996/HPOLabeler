@@ -1,0 +1,4 @@
+{
+  "fasta": "../../../data/feature/Trigram/raw/full_seq.fasta",
+  "feature": "../../../data/feature/Trigram/clean/Trigram.json"
+}
